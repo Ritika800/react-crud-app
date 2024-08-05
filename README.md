@@ -12,13 +12,13 @@ This application allows users to perform CRUD (Create, Read, Update, Delete) ope
 
 <b>Installations</b>
 
-<ul>1.Navigate to the project directory</ul>
+<ul>Navigate to the project directory</ul>
  ![image](https://github.com/user-attachments/assets/494d2e2a-68c7-4714-8e54-89dd83d81fe7)
 
-<ul>2. Install Dependencies</ul>
+<ul>Install Dependencies</ul>
 ![image](https://github.com/user-attachments/assets/f74ed0bb-c6e9-4a11-8633-48c44e80213b)
 
-<ul>3.Start the Development Server</ul>
+<ul>Start the Development Server</ul>
 ![image](https://github.com/user-attachments/assets/0822ac4a-52cb-47f6-becf-c5280913ef22)
 
 <b>Usage</b>
