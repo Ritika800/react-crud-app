@@ -31,10 +31,10 @@ This application allows users to perform CRUD (Create, Read, Update, Delete) ope
 
 <b>API Endpoints</b>
 
-<ol>POST /api/employees: Add a new employee.</ol>
-<ol>GET /api/employees: Retrieve all employees.</ol>
-<ol>PUT /api/employees/: Update an employee's details.</ol>
-<ol>DELETE /api/employees/: Delete an employee.</ol>
+<ol><b>POST /api/employees</b>: Add a new employee.</ol>
+<ol><b>GET /api/employees</b>: Retrieve all employees.</ol>
+<ol><b>PUT /api/employees/</b>: Update an employee's details.</ol>
+<ol><b>DELETE /api/employees/</b>: Delete an employee.</ol>
 
 <b>Code Structure<b>
 <ol>src/components/: Contains React components for various features of the app.</ol>
