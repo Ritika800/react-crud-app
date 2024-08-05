@@ -15,10 +15,10 @@ This application allows users to perform CRUD (Create, Read, Update, Delete) ope
 <ul>Navigate to the project directory:  <b>cd employee-crud-app</ul></b></ul>
  
 
-<ul>Install Dependencies: npm install</ul>
+<ul>Install Dependencies: <b>npm install</b></ul>
 
 
-<ul>Start the Development Server: npm start</ul>
+<ul>Start the Development Server: <b>npm start</b></ul>
 
 <ul> The app will be available at http://localhost:3000. </ul>
 
