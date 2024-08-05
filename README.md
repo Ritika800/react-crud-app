@@ -20,7 +20,7 @@ This application allows users to perform CRUD (Create, Read, Update, Delete) ope
 
 <ul>Start the Development Server: <b>npm start</b></ul>
 
-<ul> The app will be available at http://localhost:3000. </ul>
+<ul><b> The app will be available at http://localhost:3000.</b></ul>
 
 <b>Usage</b>
 <ol>Adding an Employee</ol>
