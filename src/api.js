@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const api = axios.create({
-  baseURL: 'https://free-ap-south-1.cosmocloud.io/development/api', // Replace with the actual base URL of Cosmocloud
+  baseURL: 'https://free-ap-south-1.cosmocloud.io/development/api',
   headers: {
     'Content-Type': 'application/json',
     'environmentId': '66aba7c190ea89e275f47303',
