@@ -22,7 +22,7 @@ This application allows users to perform CRUD (Create, Read, Update, Delete) ope
 ![image](https://github.com/user-attachments/assets/0822ac4a-52cb-47f6-becf-c5280913ef22)
 
 <b>Usage</b>
-Adding an Employee:-
+<ol>Adding an Employee</ol>
 <ul>avigate to the "Add Employee" page.</ul>
 <ul>Fill out the form with the employee's name, address, and contact methods.</ul>
 <ul>Click the "Add Employee" button to submit the form.</ul>
