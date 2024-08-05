@@ -12,7 +12,7 @@ This application allows users to perform CRUD (Create, Read, Update, Delete) ope
 
 <b>Installations</b>
 
-<ul>Navigate to the project directory: cd employee-crud-app</ul>
+<ul>Navigate to the project directory:  <b>cd employee-crud-app</ul></b></ul>
  
 
 <ul>Install Dependencies: npm install</ul>
